@@ -1,0 +1,2 @@
+gitay_1.txt
+git status
